@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abhinav 👋
 
-<!--
-**AbhinavChaulagai/AbhinavChaulagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Mathematics student at Luther College, currently interning as an LLM Engineer at Bountisphere. I build AI-powered tools — from RAG evaluation systems to computer vision pipelines — and care about making complex technology accessible to people who don't write code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- **LLM Engineering @ Bountisphere** — building eval harnesses, prompt architecture, and RAG pipelines using the OpenAI Responses API
+- **SafeStep** — a neighborhood safety platform analyzing 1.3M+ crime records across NYC and Chicago with AI-generated briefings
+- **GameLens** — AI football analytics with player tracking, heatmaps, and tactical insights from match footage
+
+---
+
+## Tech
+
+```python
+languages  = ["Python", "TypeScript", "JavaScript", "SQL", "Java"]
+ai_llm     = ["Claude API", "OpenAI API", "RAG", "function calling", "eval harnesses", "prompt engineering"]
+frameworks = ["React", "FastAPI", "Node.js", "Next.js"]
+tools      = ["Docker", "Modal", "Supabase", "AWS", "Google Cloud", "Git"]
+```
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [SafeStep](https://github.com/AbhinavChaulagai/safestep) | Real-time neighborhood risk assessments from 1.3M+ crime records | FastAPI, PostGIS, Gemini API, React |
+| [GameLens](https://github.com/AbhinavChaulagai/GameLens) | AI football analytics — player tracking, heatmaps, ball trajectory | YOLO11x, ByteTrack, Modal, FastAPI |
+| [RAG Evaluator](https://github.com/AbhinavChaulagai/AI-Research-Paper-Assistant) | Benchmarks BM25, Dense, Hybrid-RRF, and HyDE retrieval head-to-head | FAISS, RAGAS, MLflow, Claude API |
+| [Multimodal Deception Detection](https://github.com/AbhinavChaulagai/Multimodal-Deception-Detection-System) | Detects deceptive behavior from video, audio, and text | PyTorch, OpenCV, Whisper |
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhinavchaulagai.me-blue?style=flat&logo=google-chrome)](https://abhinavchaulagai.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinav--chaulagai-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/abhinav-chaulagai)
