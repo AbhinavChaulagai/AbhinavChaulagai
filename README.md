@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav 👋
 
-Computer Science & Mathematics student at Luther College, currently interning as an LLM Engineer at Bountisphere. I build AI-powered tools — from RAG evaluation systems to computer vision pipelines — and care about making complex technology accessible to people who don't write code.
+Computer Science & Mathematics student | AI & Machine Learning Enthusiast | Building AI Agents & RAG Pipelines
 
 ---
 
